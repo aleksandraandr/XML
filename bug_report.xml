@@ -1,0 +1,11 @@
+<?xml version-"1.0" endcoding="UTF-8"?>
+<bug_report>
+	<id>1</id>
+	<Title>Form: The form is not shown its type after loading the webpage</Title>
+	<Preconditions>User is on https://itcareer.pythonanywhere.com</Preconditions>
+	<STR>Launch Google Chrome, Enter web url</STR>
+	<ER>The form is shown "Registration form" after loading the webpage</ER>
+	<AR>The form is shown "ITCareerToday web form" after loading the webpage</AR>
+	<Severity>Critical</Severity>
+	<Priority>High</Priority>
+</bug_report>
